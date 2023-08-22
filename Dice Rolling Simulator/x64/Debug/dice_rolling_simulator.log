@@ -1,0 +1,3 @@
+﻿  dice_rolling_simulator.cpp
+C:\Users\robmj\Downloads\C++ Projects\Dice Rolling Simulator\dice_rolling_simulator.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dice_rolling_simulator.vcxproj -> C:\Users\robmj\Downloads\C++ Projects\Dice Rolling Simulator\x64\Debug\dice_rolling_simulator.exe

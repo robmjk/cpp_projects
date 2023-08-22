@@ -1,0 +1,2 @@
+C:\Users\robmj\Downloads\C++ Projects\dice_rolling_simulator\x64\Debug\dice_rolling_simulator.exe
+C:\Users\robmj\Downloads\C++ Projects\Dice Rolling Simulator\x64\Debug\dice_rolling_simulator.exe

@@ -1,0 +1,17 @@
+Income Details: 
+Amount: $1600
+Date: 8/22/2023
+Category: Main Work Income
+Description: Officeworks
+--------------- 
+Expense Details: 
+Amount: $200
+Date: 8/22/2023
+Category: Groceries
+Description: Groceries
+--------------- 
+Summary: 
+Total Income: $1600
+Total Expenses: $200
+Remaining Balance: $1400
+--------------- 

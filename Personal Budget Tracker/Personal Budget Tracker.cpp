@@ -2,7 +2,7 @@
 // Allow users to add their income and expenses
 // Allow users to view their summary of income, expenses and the difference
 // Allow users to go back to menu after viewing or adding records
-
+// Set categories to select from based on my preferences
 
 #include <iostream>
 #include <fstream> // to save elements to a file

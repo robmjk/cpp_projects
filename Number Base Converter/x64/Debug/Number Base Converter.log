@@ -1,0 +1,5 @@
+﻿  Number Base Converter.cpp
+C:\Users\robmj\Downloads\C++ Projects\Number Base Converter\Number Base Converter.cpp(50,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robmj\Downloads\C++ Projects\Number Base Converter\Number Base Converter.cpp(56,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\robmj\Downloads\C++ Projects\Number Base Converter\Number Base Converter.cpp(116,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Number Base Converter.vcxproj -> C:\Users\robmj\Downloads\C++ Projects\Number Base Converter\x64\Debug\Number Base Converter.exe

@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BudgetTracker.cpp" />
+    <ClCompile Include="Expenses.cpp" />
+    <ClCompile Include="Income.cpp" />
     <ClCompile Include="Personal Budget Tracker.cpp" />
+    <ClCompile Include="Summary.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BudgetTracker.h" />
+    <ClInclude Include="Expenses.h" />
+    <ClInclude Include="Income.h" />
+    <ClInclude Include="Summary.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

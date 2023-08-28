@@ -1,5 +1,4 @@
-#ifndef INCOME_H
-#define INCOME_H
+#pragma once
 
 #include <string>
 
@@ -14,5 +13,3 @@ public:
 };
 
 void addIncomeDetails(Income& income);
-
-#endif

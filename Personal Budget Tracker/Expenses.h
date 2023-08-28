@@ -1,5 +1,4 @@
-#ifndef EXPENSES_H
-#define EXPENSES_H
+#pragma once
 
 #include <string>
 
@@ -14,5 +13,3 @@ public:
 };
 
 void addExpenseDetails(Expenses& expenses);
-
-#endif

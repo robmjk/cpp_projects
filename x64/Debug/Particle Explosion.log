@@ -1,9 +1,0 @@
-﻿  Particle.cpp
-  Screen.cpp
-  Swarm.cpp
-  main.cpp
-C:\Users\robmj\Downloads\C++ Projects\Particle Explosion\main.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\robmj\Downloads\C++ Projects\Particle Explosion\main.cpp(46,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\robmj\Downloads\C++ Projects\Particle Explosion\main.cpp(47,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
-  Particle Explosion.vcxproj -> C:\Users\robmj\Downloads\C++ Projects\Particle Explosion\x64\Debug\Particle Explosion.exe

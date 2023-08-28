@@ -1,5 +1,4 @@
-#ifndef SUMMARY_H
-#define SUMMARY_H
+#pragma once
 
 #include <string>
 #include "Income.h"
@@ -17,5 +16,3 @@ public:
 
 void addSummaryOverview(Summary& summary, const Income& income, const Expenses& expenses);
 void displayMenu(Income& income, Expenses& expenses, Summary& summary, ofstream& outputFile);
-
-#endif
